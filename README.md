@@ -6,7 +6,7 @@ Create a simple rule-based chatbot using **Python** and **if-elif-else** stateme
 ---
 
 ## Tools
-- Python 3
+- Python 
 - No additional libraries required
 
 ---
